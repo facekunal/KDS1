@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/My Game/_Scenes/New Vr0.9.unity
+  isLoaded: 1
+  isActive: 1
